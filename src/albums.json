@@ -1,0 +1,45 @@
+{
+    "albums": [
+      {
+        "image" : "/src/assets/albumcover-1.png",
+        "id" : "1",
+        "title": "Handwritten",
+        "singer": "Shawn Mendes",
+        "producer": "Teddy Geiger",
+        "date": "2015-04-14",
+        "copies_sold": "1 million",
+        "online_streaming": "500 million streams"
+      },
+      {
+        "image" : "/src/assets/albumcover-2.png",
+        "id" : "2",
+        "title": "Illuminate",
+        "singer": "Shawn Mendes",
+        "producer": "Jake Gosling",
+        "date": "2016-09-23",
+        "copies_sold": "1.5 million",
+        "online_streaming": "750 million streams"
+      },
+      {
+        "image" : "/src/assets/albumcover-3.png",
+        "id" : "3",
+        "title": "Shawn Mendes",
+        "singer": "Shawn Mendes",
+        "producer": "Teddy Geiger",
+        "date": "2018-05-25",
+        "copies_sold": "2 million",
+        "online_streaming": "1 billion streams"
+      },
+      {
+        "image" : "/src/assets/albumcover-4.png",
+        "id" : "4",
+        "title": "Wonder",
+        "singer": "Shawn Mendes",
+        "producer": "Frank Dukes",
+        "date": "2020-12-04",
+        "copies_sold": "600,000",
+        "online_streaming": "300 million streams"
+      }
+    ]
+  }
+  
